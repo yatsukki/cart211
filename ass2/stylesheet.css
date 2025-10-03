@@ -1,0 +1,26 @@
+h1 {
+font-size: 4em;
+    
+}
+
+body {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    font-family: "DM Sans", sans-serif;
+
+}
+
+a {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+.navbar {
+    display: flex;
+    gap: 20px;
+}
