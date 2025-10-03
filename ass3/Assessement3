@@ -19,7 +19,8 @@
     <a href="link"> Contact</a> 
     <a href="link"> About</a>
  </nav>
-<!-- Your content goes here -->
-
+ <div>
+  
+ </div>
 </body>
 </html>
