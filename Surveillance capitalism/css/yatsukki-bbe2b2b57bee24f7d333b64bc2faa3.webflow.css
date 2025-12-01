@@ -1191,12 +1191,12 @@ img {
   }
 
   .div-block-96 {
-    display: none;
+    display: flex;
   }
 
   .sch_flexbox {
     padding-bottom: 20px;
-    display: flex;
+    display: none;
   }
 
   .sch_content_link {
