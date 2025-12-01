@@ -1126,7 +1126,7 @@ img {
     line-height: 55px;
   }
 
-  .sc_h1.menu_link, .sc_h1.menu_link.w--current:hover {
+  .sc_h1.menu_link, .sc_h1.menu_link:hover, .sc_h1.menu_link.w--current:hover {
     font-size: 70px;
   }
 
@@ -1225,7 +1225,6 @@ img {
   }
 
   .sc_home_mobile_content {
-    padding-bottom: 40px;
     padding-left: 24px;
     padding-right: 24px;
     display: block;
@@ -1298,7 +1297,7 @@ img {
     grid-column-gap: 16px;
     grid-row-gap: 16px;
     flex-flow: column;
-    height: 620px;
+    height: 610px;
     margin-top: 100px;
     display: flex;
     position: relative;
